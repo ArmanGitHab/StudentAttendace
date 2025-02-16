@@ -33,8 +33,8 @@ Ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd student-attendance-system
+   git clone https://github.com/ArmanGitHab/StudentAttendace.git
+   cd "Student Attendance"
    ```
 2. Install dependencies:
    ```bash
@@ -63,7 +63,6 @@ Ensure you have the following installed:
 ## Future Enhancements
 
 - GUI integration for better user experience
-- Facial recognition for automated attendance marking
 - API for remote access
 
 ## Contributing
